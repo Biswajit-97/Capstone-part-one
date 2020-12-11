@@ -3016,7 +3016,12 @@ header {
   cursor: pointer;
   font-size: large;
   transition: background-color 0.3s ease 0s;
-  padding-right: 22px;
+  padding-right: 26px;
+  font-size: 16px;
+}
+
+.cta i {
+  font-size: 18px;
 }
 
 .cta:hover {
